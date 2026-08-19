@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mcp-dir/tribunal_trf_cert_unificada-mcp",
+  "title": "Tribunal TRF: Certidão Unificada da Justiça Federal",
+  "description": "Tribunal TRF: Certificate Unificada da Justiça Federal, official-source lookup. Platform-hosted, pay",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/mcp-dir/tribunal_trf_cert_unificada-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.mcp.ai/p_tribunal_trf_cert_unificada"
+    }
+  ]
+}

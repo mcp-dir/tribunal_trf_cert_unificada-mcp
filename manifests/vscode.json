@@ -1,0 +1,9 @@
+{
+  "_comment": "Cole em .vscode/mcp.json (workspace) OU Command Palette: 'MCP: Add Server' → HTTP → cole https://api.mcp.ai/p_tribunal_trf_cert_unificada.",
+  "servers": {
+    "tribunal_trf_cert_unificada": {
+      "type": "http",
+      "url": "https://api.mcp.ai/p_tribunal_trf_cert_unificada"
+    }
+  }
+}
